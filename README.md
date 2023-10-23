@@ -1,4 +1,4 @@
-# Heart Failure Prediction Model
+# Heart Disease Prediction Model
 
 ## Overview
 
